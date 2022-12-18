@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @erayakpinar
+- 👀 I’m interested in Cybersecurity and software programminmg.
+- 🌱 I’m currently learning C | Python | Cybersecurity.
